@@ -10,4 +10,4 @@ _stydying in Higher school of economics._
   + First B
   2. Second
 
-[hse] (https://www.hse.ru/)
+[hse](https://www.hse.ru/)
